@@ -1,0 +1,14 @@
+{
+  "name": "treasure_map",
+  "version": "0.0.1",
+  "description": "Program that maps your Git projects and provides a visual rendering.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nick Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^7.1.8"
+  }
+}
