@@ -9,6 +9,6 @@
   "author": "Nick Rodriguez",
   "license": "ISC",
   "dependencies": {
-    "electron": "^7.1.8"
+    "electron": "^11.5.0"
   }
 }
